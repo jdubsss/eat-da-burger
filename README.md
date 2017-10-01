@@ -1,8 +1,5 @@
-Folders we need:
+For this project I used MySQL, Node, Express, Handlebars, ORM.
 
-Views - handlebars files
-Public - public files html, css, images
-Models - uses orm
-Config - connection to mysql and orm. all connections
-Controller - routes to application...
-Database - schema files?
+I followed the MVC design pattern; using Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
+
+This project has been uploaded to Heroku. Click the link below to check it out!
